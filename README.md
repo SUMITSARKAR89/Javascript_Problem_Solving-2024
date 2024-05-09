@@ -6,7 +6,7 @@
 1. <i>Solve the problem with Javascript  to find the maximum between two numbers. (Hint: take 2 variables and find the maximum number between them)
 </i>
 
-```
+```javascript
 let num1 = 10;
 let num2 = 20;
 
@@ -23,7 +23,7 @@ console.log("The minimum number is =", min);
 2. <i> Solve the problem with Javascript  to check whether a number is negative, positive or zero. (take a single variable and check using if else condition) 
  </i>
 
-```
+```javascript
 let number = 10;
 if (number > 0){
     console.log("This number is positive");
@@ -37,7 +37,7 @@ if (number > 0){
 
 </i>
 
-```
+```javascript
 let divNumber = 150;
 
 if(divNumber % 10 === 0){
@@ -50,7 +50,7 @@ if(divNumber % 10 === 0){
 4. <i>Solve the problem with Javascript  to check whether a number is even or odd. 
 </i>
 
-```
+```javascript
 let checkNum = 10;
 if (checkNum % 2 === 0){
     console.log(checkNum, "= is even Number");
@@ -63,7 +63,7 @@ if (checkNum % 2 === 0){
 5. <i>Solve the problem with Javascript  to check whether a character is in the alphabet or not. 
 </i>
 
-```
+```javascript
 let alpha = "A";
 if (
     (alpha >= 'A' && alpha <= 'Z') || 
@@ -78,7 +78,7 @@ if (
 6. <i>Solve the problem with Javascript  to check whether the temperature is hot, cold or normal. (30 <=  is hot, 25 >= is cold , anyother value is normal)
 </i>
 
-```
+```javascript
 let temp = 26;
 
  if (temp >= 30){
@@ -93,7 +93,7 @@ let temp = 26;
 7. a. <i> Solve the problem with Javascript  to find a maximum between three numbers. (Hint: take 3 variables and find the maximum number between them use logical and operator for that)
 </i>
 
-```
+```javascript
 let a = 1000;
 let b = 500;
 let c = 250;
@@ -108,7 +108,7 @@ if(a > b && a > c){
 
 ```
 <i>b. to find minimum number </i>
-```
+```javascript
 
 if(a < b && a < c){
     console.log("minimum number is ", a);
@@ -121,7 +121,7 @@ if(a < b && a < c){
 ```
 8. <i>Write a JavaScript expression using the ternary operator that checks if a number x is even or odd. Store the result in a variable and print “Even Number” or “Odd Number”.</i>
 
-```
+```javascript
 let x = 5;
 
 let result = (x % 2 === 0) ? "Even Number" : "Odd Number";
@@ -129,7 +129,7 @@ console.log(result);
 
 ```
 9. <i>Use the logical AND operator to determine if two variables, numOne and numTwo, are both greater than 30. Print a message to the console reflecting the result.</i>
-```
+```javascript
 let numOne = 25;
 let numTwo = 60;
 
@@ -139,7 +139,7 @@ if (numOne > 30 && numTwo > 30){
     console.log("numOne and numTwo,both are not greater than 30");
 }
 
-```
+```javascript
 10. <i>Write a JavaScript program that uses if-else statements combined with logical operators. The program should check if a person’s age is between 13 and 19. If so, print “Teenager”. Otherwise, print “Not a teenager”. (Hint: Combining If-Else and Logical Operators)
 </i>
 
