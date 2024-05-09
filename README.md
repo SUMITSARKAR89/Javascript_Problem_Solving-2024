@@ -2,6 +2,7 @@
 # Javascript Problem Solving - 2024
 
 
+<img src="img/java.png" alt="" >
 1. <i>Solve the problem with Javascript  to find the maximum between two numbers. (Hint: take 2 variables and find the maximum number between them)
 </i>
 
