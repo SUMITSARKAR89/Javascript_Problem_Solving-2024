@@ -139,11 +139,11 @@ if (numOne > 30 && numTwo > 30){
     console.log("numOne and numTwo,both are not greater than 30");
 }
 
-```javascript
+```
 10. <i>Write a JavaScript program that uses if-else statements combined with logical operators. The program should check if a person’s age is between 13 and 19. If so, print “Teenager”. Otherwise, print “Not a teenager”. (Hint: Combining If-Else and Logical Operators)
 </i>
 
-```
+```javascript
 let age = 16;
 
 if (age >= 13 && age <= 19) {
