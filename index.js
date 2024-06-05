@@ -123,3 +123,4 @@ if (age >= 13 && age <= 19) {
 } else {
     console.log("Not a teenager");
 }
+Create a program that uses the logical OR operator to check if either one of two strings str1 or str2 is equal to "JavaScript". Output a boolean result.
