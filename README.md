@@ -154,6 +154,6 @@ if (age >= 13 && age <= 19) {
 
 ```
 
-<img src="img/java.png" alt="" >
+<img src="img/js picture.png" alt="" >
 
 <p>javaScript is Fun</p>
